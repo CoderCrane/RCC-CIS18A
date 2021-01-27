@@ -1,0 +1,14 @@
+Instructions: Fill out your name under programmer name, the date and time you started the assignment, 
+the date and time you completed the assignment, total hours you dedicated to the assignment (should be
+a minimum of 1 1/2 hours for a good quality, well done assignment - rules of academic honesty apply for
+this), and any constructive comments you have about the assignment (could be things you liked about the 
+assignment; or if you had the opportunity to do the assignment all over again, what would you do 
+differently?) 
+
+Programmer Name: River Crane
+Assignment Start: (on paper)1/8/20 9:05pm, (programming)1/9/20 7:50am
+Assignment Completion: (on paper)1/8/20 9:30pm, (programming)1/9/20 9:00am
+Total Hours for Assignment: 1 hour and 35 minutes
+Comments: I enjoyed the challenge of creating a sorting method with only if else statements, and I've improved my coding skills from such practice in this assignment.
+	  As recommended by the book, I planned out the code ahead of time on paper with an initialization, processing, and termination phase.  This strategy resulted 
+	  in a much faster time of completion.
